@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there 👋 I'm Le Anh Thu
 
-<!--
-**lam267/lam267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a wide range of skills in various programming languages, frameworks, databases, and tools. 
 
-Here are some ideas to get you started:
+## 🌐 Contact Me
+- **[Gmail](mailto:your-email@gmail.com)**
+- **[Facebook](https://www.facebook.com/your-profile)**
+- **[Instagram](https://www.instagram.com/your-profile)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 My Skills 
+
+### 💻 Programming Languages
+- PHP
+
+### 💻 Frameworks, Platforms, and Libraries
+- Laravel
+- React
+- Vue.js
+- NodeJS
+- Expo
+
+### 💻 Databases & Cloud Hosting
+- MySQL
+- MongoDB
+
+### 💻 Software & Tools
+- VS Code
+- Visual Studio
+- GitHub
+- Canva
+- ChatGPT
+- Postman
+- Figma
+
+### 💻 Other Skills
+- JQuery
+- HTML5
+- CSS3
+- Docker
+- Postman
+
+## 📊 GitHub Stats
+
+![Le Anh Thu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+Feel free to explore my repositories and projects. I'm always open to collaboration and discussion. Let's build something amazing together!
