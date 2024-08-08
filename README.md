@@ -44,6 +44,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a wide range of sk
 
 ![Nguyen thikim lam GitHub stats](https://github-readme-stats.vercel.app/api?username=lam267&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lam267e&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lam267&layout=compact&theme=radical)
 
 Feel free to explore my repositories and projects. I'm always open to collaboration and discussion. Let's build something amazing together!
